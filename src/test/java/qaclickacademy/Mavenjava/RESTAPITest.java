@@ -18,5 +18,12 @@ public class RESTAPITest {
 	@Test
 	public void deleteTwitter() {
 		System.out.println("deleteTwitter");
+		
+	}
+	
+	@Test
+	public void deleteTwitter2() {
+		System.out.println("deleteTwitte2r");
+		
 	}
 }
