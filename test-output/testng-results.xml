@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55" started-at="2020-05-19T13:32:29 IST" finished-at="2020-05-19T13:32:29 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55" started-at="2020-05-19T13:32:29 IST" finished-at="2020-05-19T13:32:29 IST">
+      <class name="qaclickacademy.Mavenjava.seleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.Mavenjava.seleniumTest@1d8d30f7]" name="BrowserAutomation" duration-ms="8" started-at="2020-05-19T13:32:29 IST" finished-at="2020-05-19T13:32:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:qaclickacademy.Mavenjava.seleniumTest@1d8d30f7]" name="elementsUi" duration-ms="1" started-at="2020-05-19T13:32:29 IST" finished-at="2020-05-19T13:32:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- qaclickacademy.Mavenjava.seleniumTest -->
+      <class name="qaclickacademy.Mavenjava.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qaclickacademy.Mavenjava.RESTAPITest@3e57cd70]" name="deleteTwitter" duration-ms="0" started-at="2020-05-19T13:32:29 IST" finished-at="2020-05-19T13:32:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qaclickacademy.Mavenjava.RESTAPITest@3e57cd70]" name="postJira" duration-ms="1" started-at="2020-05-19T13:32:29 IST" finished-at="2020-05-19T13:32:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacademy.Mavenjava.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
